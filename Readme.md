@@ -21,3 +21,9 @@ The Todo Mobile App is a simple and intuitive application designed to help users
 2. Add tasks by clicking the "Add Task" button.
 3. View, edit, and delete tasks using the icons adjacent to the created task.
 4. Mark tasks as completed, in progress, not started by changing their status
+
+### Screenshots
+
+![Todo App Screenshot 1](./assets/1.png)
+![Todo App Screenshot 2](./assets/2.png)
+![Todo App Screenshot 3](./assets/3.png)
