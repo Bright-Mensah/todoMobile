@@ -9,6 +9,7 @@ The Todo Mobile App is a simple and intuitive application designed to help users
 - Add new tasks
 - Edit existing tasks
 - Delete tasks
+- filter, sort the task using the filter icon
 - Mark tasks as completed, in progress, not started by changing their status
 - User-friendly interface
 - search task by title and details
