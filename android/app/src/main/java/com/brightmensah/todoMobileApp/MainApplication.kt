@@ -1,4 +1,4 @@
-package com.todomobileapp
+package com.brightmensah.todoMobileApp
 
 import android.app.Application
 import android.content.res.Configuration

@@ -1,4 +1,4 @@
-package com.todomobileapp
+package com.brightmensah.todoMobileApp
 
 import android.os.Build
 import android.os.Bundle

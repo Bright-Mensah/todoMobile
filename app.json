@@ -2,6 +2,17 @@
   "expo": {
     "name": "todoMobileApp",
     "slug": "todoMobileApp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c518fea4-40b7-45ee-858a-16c24d054a4e"
+      }
+    },
+    "android": {
+      "package": "com.brightmensah.todoMobileApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.brightmensah.todoMobileApp"
+    }
   }
 }
