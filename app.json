@@ -13,6 +13,10 @@
     },
     "ios": {
       "bundleIdentifier": "com.brightmensah.todoMobileApp"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c518fea4-40b7-45ee-858a-16c24d054a4e"
     }
   }
 }
